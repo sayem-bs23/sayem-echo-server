@@ -1,0 +1,301 @@
+{
+  "status": "200",
+  "data": [
+    {
+      "open_date": [
+        {
+          "dist_code": "102001",
+          "day": "SUN",
+          "date": "04-04-2021"
+        }
+      ],
+      "distributor_details": [
+        {
+          "dist_code": "102001",
+          "dist_name": "Test",
+          "dist_address": "Bata",
+          "dist_bin": ""
+        }
+      ],
+      "menu": [
+        {
+          "user_role": "Order"
+        }
+      ],
+      "sms_skip": "N",
+      "sms_button": [
+        {
+          "button1_display": "Y",
+          "button2_display": "Y"
+        }
+      ],
+      "route": [
+        {
+          "group_type": "Order",
+          "order_date": "04-04-2021",
+          "order_day": "SUN",
+          "order_user": "01712977771",
+          "delivery_date": "05-04-2021",
+          "delivery_day": "MON",
+          "delivery_user": "01716414403",
+          "dist_code": "102001",
+          "route_code": "102001001",
+          "route_name": "Khalid Route Test",
+          "section_code": "1",
+          "section_name": "Khalid Route Test Barisal Mix 1"
+        }
+      ],
+      "outlet": [{
+        "group_type": "Order",
+        "route_code": "102001001",
+        "outlet_code": "180193",
+        "outlet_name": "ALOMGIR SHOE STORE",
+        "contact_no_1": "01716414403",
+        "contact_no_2": "01716414403",
+        "contact_no_3": "01716414403",
+        "address": "",
+        "owner_name": "Test194",
+        "order_pair": "0",
+        "delivery_pair": "0",
+        "last_vat_inv": "1",
+        "credit_limit": "0",
+        "credit_days": "0",
+        "pay_type": [
+          {
+            "pay_name": "Cash"
+          },
+          {
+            "pay_name": "Cheque"
+          }
+        ],
+        "due_payment": "0"
+      }],
+      "size_range": [
+        {
+          "size_group": "A",
+          "sc_r1": "0",
+          "sc_r2": "2",
+          "sc_r3": "3",
+          "sc_r4": "4",
+          "sc_r5": "5",
+          "sc_r6": "0",
+          "sc_r7": "6",
+          "sc_r8": "0",
+          "sc_r9": "7",
+          "sc_r10": "0",
+          "sc_r11": "8",
+          "sc_r12": "0",
+          "sc_r13": "9"
+        },
+        {
+          "size_group": "B",
+          "sc_r1": "0",
+          "sc_r2": "9",
+          "sc_r3": "0",
+          "sc_r4": "10",
+          "sc_r5": "0",
+          "sc_r6": "11",
+          "sc_r7": "0",
+          "sc_r8": "12",
+          "sc_r9": "0",
+          "sc_r10": "13",
+          "sc_r11": "3",
+          "sc_r12": "1",
+          "sc_r13": "2"
+        },
+        {
+          "size_group": "C",
+          "sc_r1": "1",
+          "sc_r2": "2",
+          "sc_r3": "0",
+          "sc_r4": "3",
+          "sc_r5": "0",
+          "sc_r6": "4",
+          "sc_r7": "0",
+          "sc_r8": "5",
+          "sc_r9": "0",
+          "sc_r10": "6",
+          "sc_r11": "0",
+          "sc_r12": "7",
+          "sc_r13": "0"
+        },
+        {
+          "size_group": "D",
+          "sc_r1": "5",
+          "sc_r2": "0",
+          "sc_r3": "6",
+          "sc_r4": "0",
+          "sc_r5": "7",
+          "sc_r6": "0",
+          "sc_r7": "8",
+          "sc_r8": "0",
+          "sc_r9": "9",
+          "sc_r10": "0",
+          "sc_r11": "10",
+          "sc_r12": "0",
+          "sc_r13": "11"
+        },
+        {
+          "size_group": "E",
+          "sc_r1": "9",
+          "sc_r2": "0",
+          "sc_r3": "0",
+          "sc_r4": "0",
+          "sc_r5": "0",
+          "sc_r6": "0",
+          "sc_r7": "0",
+          "sc_r8": "0",
+          "sc_r9": "0",
+          "sc_r10": "0",
+          "sc_r11": "0",
+          "sc_r12": "0",
+          "sc_r13": "0"
+        }
+      ],
+
+      "order_article": [
+        {
+          "art_grp_code": "17",
+          "product_code": "0019042",
+          "size_group": "A",
+          "cat_code": "20",
+          "sub_cat_code": "02",
+          "brand_code": "G",
+          "sale_type": "",
+          "mrp": "390",
+          "sale_price": "313.95",
+          "std_r1": "0",
+          "std_r2": "0",
+          "std_r3": "0",
+          "std_r4": "0",
+          "std_r5": "0",
+          "std_r6": "0",
+          "std_r7": "0",
+          "std_r8": "0",
+          "std_r9": "0",
+          "std_r10": "0",
+          "std_r11": "0",
+          "std_r12": "0",
+          "std_r13": "0",
+          "promo_code": "",
+          "promo_name": "",
+          "bundle_unit": "",
+          "discount_per": "",
+          "discount_amnt": "",
+          "discounted_price": "",
+          "promo_status": "",
+          "promo_start_date": "",
+          "promo_end_date": ""
+        }],
+      "outlet_order_due": [
+        {
+          "outlet_code": "50032",
+          "product_code": "5526012",
+          "size_group": "C",
+          "due_r1": "0",
+          "due_r2": "0",
+          "due_r3": "0",
+          "due_r4": "0",
+          "due_r5": "0",
+          "due_r6": "15",
+          "due_r7": "0",
+          "due_r8": "15",
+          "due_r9": "0",
+          "due_r10": "0",
+          "due_r11": "0",
+          "due_r12": "0",
+          "due_r13": "0",
+          "due_pair": "30"
+        }],
+      "delivery_article": [
+        {
+          "sum_sheet_no": "202110600300590",
+          "outlet_code": "80820",
+          "product_code": "0619662",
+          "size_group": "A",
+          "order_value": "961.2",
+          "ord_r1": "0",
+          "ord_r2": "0",
+          "ord_r3": "2",
+          "ord_r4": "2",
+          "ord_r5": "2",
+          "ord_r6": "0",
+          "ord_r7": "0",
+          "ord_r8": "0",
+          "ord_r9": "0",
+          "ord_r10": "0",
+          "ord_r11": "0",
+          "ord_r12": "0",
+          "ord_r13": "0",
+          "ord_pair": "6"
+        }],
+      "delivery_issue_article": [
+        {
+          "product_code": "0615662",
+          "size_group": "A",
+          "ord_r1": "0",
+          "ord_r2": "0",
+          "ord_r3": "2",
+          "ord_r4": "2",
+          "ord_r5": "2",
+          "ord_r6": "0",
+          "ord_r7": "0",
+          "ord_r8": "0",
+          "ord_r9": "0",
+          "ord_r10": "0",
+          "ord_r11": "0",
+          "ord_r12": "0",
+          "ord_r13": "0",
+          "ord_pair": "6",
+          "wh_r1": "0",
+          "wh_r2": "0",
+          "wh_r3": "2",
+          "wh_r4": "2",
+          "wh_r5": "2",
+          "wh_r6": "0",
+          "wh_r7": "0",
+          "wh_r8": "0",
+          "wh_r9": "0",
+          "wh_r10": "0",
+          "wh_r11": "0",
+          "wh_r12": "0",
+          "wh_r13": "0",
+          "wh_pair": "6"
+        }],
+      "outlet_close_reason": [
+        {
+          "close_reason": "No Credit Limit"
+        },
+        {
+          "close_reason": "No money to purchase"
+        },
+        {
+          "close_reason": "Others"
+        },
+        {
+          "close_reason": "Outlet closed"
+        },
+        {
+          "close_reason": "Owner/main order man not present"
+        },
+        {
+          "close_reason": "Stock not required"
+        }
+      ],
+      "category": [
+        {
+          "cat_code": "01",
+          "cat_name": "MEN S INDUSTRIAL",
+          "sub_cat_code": "02",
+          "sub_cat_name": "M IND H C LEATHER"
+        }],
+
+      "brand": [
+        {
+          "brand_code": "A",
+          "brand_name": "BATA  MEN "
+        }]
+    }
+  ],
+  "message":"Success"
+}
